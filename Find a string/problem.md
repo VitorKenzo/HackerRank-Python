@@ -10,7 +10,7 @@ The first line of input contains the original string. The next line contains the
 
 **Constraints**
 
-$ 1 \le len(string) \le 200 $
+- $ 1 \le len(string) \le 200 $
 
 **Output Format**
 

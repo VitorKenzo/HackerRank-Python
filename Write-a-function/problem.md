@@ -24,7 +24,7 @@ Read _year_, the year to test
 
 **Constraints**
 
-$ 1900 \le year \le 10^5 $
+- $ 1900 \le year \le 10^5 $
 
 **Output Format**
 
