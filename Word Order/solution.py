@@ -16,8 +16,4 @@ for i in range(n):
    
 #output
 print(diff_words)
-#formatting the second output line
-ans = ''
-for value in words.values():
-    ans = ans + str(f'{value} ')
-print(ans)
+print(*words.values(), sep=' ')
