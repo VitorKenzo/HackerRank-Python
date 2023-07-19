@@ -20,6 +20,19 @@ A single line of input containing the full name, $ S $.
 
 Print the capitalized string, $S$.
 
+---
+
+**Sample Input**
+
+```
+chris alan
+```
+
+**Sample Output**
+
+```
+Chris Alan
+```
 
 
 

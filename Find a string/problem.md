@@ -15,3 +15,18 @@ $ 1 \le len(string) \le 200$
 **Output Format**
 
 Output the integer number indicating the total number of occurrences of the substring in the original string.
+
+---
+
+**Sample Input**
+
+```
+ABCDCDC
+CDC
+```
+
+**Sample Output**
+
+```
+2
+```

@@ -21,3 +21,20 @@ $1 \le integers \le10^9$
 **Output Format**
 
 Output a single integer, your total happiness.
+
+---
+
+**Sample Input**
+
+```
+3 2
+1 5 3
+3 1
+5 7
+```
+
+**Sample Output**
+
+```
+1
+```

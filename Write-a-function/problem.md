@@ -29,3 +29,17 @@ $ 1900 \le year \le 10^5 $
 **Output Format**
 
 The function must return a Boolean value (True/False). Output is handled by the provided code stub.
+
+---
+
+**Sample Input**
+
+```
+1990
+```
+
+**Sample Output**
+
+```
+False
+```

@@ -19,3 +19,17 @@ A single line of input contains the string $S$.
 **Output Format**
 
 Output the sorted string $S$.
+
+---
+
+**Sample Input**
+
+```
+Sorting1234
+```
+
+**Sample Output**
+
+```
+ginortS1324
+```

@@ -11,3 +11,21 @@ The next $N$ lines contains the space separated elements of $M$ columns.
 **Output Format**
 
 First, print the transpose array and then print the flatten.
+
+---
+
+**Sample Input**
+
+```
+2 2
+1 2
+3 4
+```
+
+**Sample Output**
+
+```
+[[1 3]
+ [2 4]]
+[1 2 3 4]
+```
